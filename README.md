@@ -3,7 +3,7 @@
 # 👨🏻‍💻 Gabriel Chacar Rodrigues
 ### `Desenvolvedor Full Stack`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Apaixonado+por+tecnologia;Python+%7C+JS+%7C+HTML+%7C+CSS;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Apaixonado+por+tecnologia;Python+%7C+JS+%7C+HTML+%7C+CSS;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 
 </div>
 
@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Me chamo **Gabriel Chacar Rodrigues**, sou natural de **Campos dos Goytacazes - RJ** e tenho foco em desenvolvimento web.
+Olá! Me chamo **Gabriel Chacar Rodrigues** e tenho foco em desenvolvimento web full stack.
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Estácio de Sá** — 2º período
 - 🏫 Formado em **Desenvolvedor Full Stack** pela **Gama Academy**
@@ -23,22 +23,32 @@ Olá! Me chamo **Gabriel Chacar Rodrigues**, sou natural de **Campos dos Goytaca
 
 ## 🛠️ Tecnologias
 
+### 🎨 Front-end
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
-### ⚙️ Ferramentas
+### 🔧 Back-end
+<div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+</div>
+
+### ⚙️ Ferramentas & Ambiente
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
