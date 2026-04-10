@@ -3,7 +3,7 @@
 # 👨🏻‍💻 Gabriel Chacar Rodrigues
 ### `Desenvolvedor Full Stack`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;Estudante+de+ADS+%7C+Estácio+de+Sá;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 
 </div>
 
