@@ -1,16 +1,9 @@
-# 👩🏻‍💻 Gabriel Chacar Rodrigues
-
-**`Desenvolvedor FullStack`**
-
-Me chamo Gabriel Chacar Rodrigues, tenho 32 anos e sou natural de Campos dos Goytacazes - RJ. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Também fiz o curso de Desenvolvedor Full Stack pela Gama Academy.
-
-
 <div align="center">
 
-# Olá, eu sou o Gabriel! 👋
-### Estudante de Análise de Sistemas | Buscando meu primeiro estágio 🚀
+# 👨🏻‍💻 Gabriel Chacar Rodrigues
+### `Desenvolvedor Full Stack`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Estudante+de+An%C3%A1lise+de+Sistemas;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 
 </div>
 
@@ -18,27 +11,46 @@ Me chamo Gabriel Chacar Rodrigues, tenho 32 anos e sou natural de Campos dos Goy
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Cursando **Análise de Sistemas** — 2º período
-- 🔍 Em busca do meu **primeiro estágio** na área de tecnologia
-- 🌱 Atualmente aprendendo mais sobre **desenvolvimento web**
-- 💡 Apaixonado por resolver problemas com código
-- 📍 Brasil
+Olá! Me chamo **Gabriel Chacar Rodrigues**, sou natural de **Campos dos Goytacazes - RJ** e tenho foco em desenvolvimento web.
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Estácio de Sá** — 2º período
+- 🏫 Formado em **Desenvolvedor Full Stack** pela **Gama Academy**
+- 🚀 Desenvolvendo projetos práticos em **desenvolvimento web**
+- 💡 Gosto de transformar ideias em soluções funcionais
+- 📍 Campos dos Goytacazes, RJ — Brasil
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+### ⚙️ Ferramentas
+
+<div align="center">
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Em breve](#) | — | — |
+
+> 💬 Projetos sendo preparados. Em breve por aqui!
 
 ---
 
@@ -64,7 +76,7 @@ Me chamo Gabriel Chacar Rodrigues, tenho 32 anos e sou natural de Campos dos Goy
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO-AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabbchacar@gmail.com)
 
 </div>
 
